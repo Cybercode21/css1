@@ -1,0 +1,54 @@
+.pr
+{
+    background-color: rgb(14,25,37);
+    font-family: 'Russo One', sans-serif;
+    font-style: inherit;
+    color: whitesmoke;
+    width: 95%;
+    height: 8%;
+    margin-left: 35px;
+
+}
+.lg
+{
+    position: absolute;
+    left:125px;
+    top: 22px;
+    font-size: 18px;
+}
+.services
+{
+    position:absolute;
+    top: 24px;
+    left:575px;
+    font-size: 13px;
+
+}
+.projects
+{
+    position:absolute;
+    top: 24px;
+    left:650px;
+    font-size: 13px;
+}
+.about
+{
+    position:absolute;
+    top: 24px;
+    left:725px;
+    font-size: 13px;
+}
+.contact
+{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 25px;
+    position:absolute;
+    top: 20px;
+    left:1150px;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid rgb(22, 114, 214);
+    border-radius: 17px;
+    
+}
